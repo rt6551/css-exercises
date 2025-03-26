@@ -1,0 +1,19 @@
+.odd, .cooler{
+    background-color: #ffb6c1;
+    font-family: "Verdana,DejaVu Sans",sans-serif;
+}
+
+#id-one{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odd.cooler{
+    font-size: 24px;
+}
+
+#id-two{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
